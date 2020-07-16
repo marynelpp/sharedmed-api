@@ -1,0 +1,114 @@
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.deps.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.runtimeconfig.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.runtimeconfig.dev.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.Views.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.Views.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\ContextBD.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\bin\Release\netcoreapp2.1\ContextBD.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.csprojAssemblyReference.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.AssemblyInfoInputs.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.AssemblyInfo.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.csproj.CoreCompileInputs.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorAssemblyInfo.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorAssemblyInfo.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.TagHelpers.input.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.TagHelpers.output.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorCoreGenerate.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorTargetAssemblyInfo.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorTargetAssemblyInfo.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.Views.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.csproj.CopyComplete
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.genruntimeconfig.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.deps.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.runtimeconfig.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.runtimeconfig.dev.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.Views.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.Views.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ContextBD.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ContextBD.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.csprojAssemblyReference.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.AssemblyInfoInputs.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.AssemblyInfo.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.csproj.CoreCompileInputs.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorAssemblyInfo.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorAssemblyInfo.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.TagHelpers.input.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.TagHelpers.output.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorCoreGenerate.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorTargetAssemblyInfo.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorTargetAssemblyInfo.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.Views.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.csproj.CopyComplete
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.genruntimeconfig.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\appsettings.Development.json
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\appsettings.json
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.deps.json
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.runtimeconfig.json
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.runtimeconfig.dev.json
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.dll
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.pdb
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.Views.dll
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ApiSharedMed.Views.pdb
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ContextBD.dll
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\bin\Release\netcoreapp2.1\ContextBD.pdb
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.csprojAssemblyReference.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.AssemblyInfoInputs.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.AssemblyInfo.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.csproj.CoreCompileInputs.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorAssemblyInfo.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorAssemblyInfo.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.TagHelpers.input.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.TagHelpers.output.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorCoreGenerate.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorTargetAssemblyInfo.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.RazorTargetAssemblyInfo.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.Views.pdb
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.csproj.CopyComplete
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.dll
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.pdb
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ApiSharedMed\obj\Release\netcoreapp2.1\ApiSharedMed.genruntimeconfig.cache

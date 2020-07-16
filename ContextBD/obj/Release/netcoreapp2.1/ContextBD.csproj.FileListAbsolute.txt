@@ -1,0 +1,36 @@
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\bin\Release\netcoreapp2.1\ContextBD.deps.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\bin\Release\netcoreapp2.1\ContextBD.runtimeconfig.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\bin\Release\netcoreapp2.1\ContextBD.runtimeconfig.dev.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\bin\Release\netcoreapp2.1\ContextBD.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\bin\Release\netcoreapp2.1\ContextBD.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\obj\Release\netcoreapp2.1\ContextBD.csprojAssemblyReference.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\obj\Release\netcoreapp2.1\ContextBD.AssemblyInfoInputs.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\obj\Release\netcoreapp2.1\ContextBD.AssemblyInfo.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\obj\Release\netcoreapp2.1\ContextBD.csproj.CoreCompileInputs.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\obj\Release\netcoreapp2.1\ContextBD.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\obj\Release\netcoreapp2.1\ContextBD.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\ApiSharedMed\ContextBD\obj\Release\netcoreapp2.1\ContextBD.genruntimeconfig.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.deps.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.runtimeconfig.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.runtimeconfig.dev.json
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.csprojAssemblyReference.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.AssemblyInfoInputs.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.AssemblyInfo.cs
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.csproj.CoreCompileInputs.cache
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.dll
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.pdb
+C:\Users\Andrea Brizuela\Desktop\Proyectos\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.genruntimeconfig.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.deps.json
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.runtimeconfig.json
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.runtimeconfig.dev.json
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.dll
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\bin\Release\netcoreapp2.1\ContextBD.pdb
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.csprojAssemblyReference.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.AssemblyInfoInputs.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.AssemblyInfo.cs
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.csproj.CoreCompileInputs.cache
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.dll
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.pdb
+C:\Users\maryn\Desktop\PROYECTOS\Inteleca\AppSharedMedBack\ContextBD\obj\Release\netcoreapp2.1\ContextBD.genruntimeconfig.cache
